@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sugarrush/static/css/main.0c3ce83d.css",
-    "main.js": "/sugarrush/static/js/main.5ce204d4.js",
+    "main.js": "/sugarrush/static/js/main.e6d7704f.js",
     "static/js/453.4627dcb6.chunk.js": "/sugarrush/static/js/453.4627dcb6.chunk.js",
     "static/media/cupcake2.png": "/sugarrush/static/media/cupcake2.fe027513057b1bd5122f.png",
     "static/media/cake5.png": "/sugarrush/static/media/cake5.08e0a18cc2f15c617595.png",
@@ -41,11 +41,11 @@
     "static/media/delivery.png": "/sugarrush/static/media/delivery.13b746b945bd327aae71.png",
     "index.html": "/sugarrush/index.html",
     "main.0c3ce83d.css.map": "/sugarrush/static/css/main.0c3ce83d.css.map",
-    "main.5ce204d4.js.map": "/sugarrush/static/js/main.5ce204d4.js.map",
+    "main.e6d7704f.js.map": "/sugarrush/static/js/main.e6d7704f.js.map",
     "453.4627dcb6.chunk.js.map": "/sugarrush/static/js/453.4627dcb6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0c3ce83d.css",
-    "static/js/main.5ce204d4.js"
+    "static/js/main.e6d7704f.js"
   ]
 }
